@@ -23,6 +23,15 @@
 
 ![image](https://github.com/user-attachments/assets/7b70710d-514c-4ddc-9b6e-20f4ddd90528)
 
+| Studentų skaičius | Namų darbų įvertinimų skaičius | Greičio vidurkis (s) |
+| :------------- | :------------- | :------------- |
+| 1000 | 10 | 0.0122512 |
+| 10000 | 10 | 0.0404024 |
+| 100000 | 10 | 0.2910102 |
+| 100000 | 10 | 2.816906 |
+| 100000 | 10 | 30.96842 |
+
+<sup> Vidurkis išvestas iš 5-ių testų </sup>
 
 ### 1.2 Atvejis - failų generavimo greičio matavimas didinant tik įvertinimų kiekį
 
@@ -68,5 +77,14 @@
 
 ![image](https://github.com/user-attachments/assets/eeef9e09-46d0-4300-b9d6-c159b2b35181)
 
+| Studentų skaičius | Namų darbų įvertinimų skaičius | Nuskaitymo greičio vidurkis (s) | Rūšiavimo greičio vidurkis (s) | Kūrimo greičio vidurkis (s) |
+| :------------- | :------------- | :------------- | :------------- | :------------- |
+| 1000 | 10 | 0.0053923333333333 | 0.000778 | 0.0492713333333333 |
+| 10000 | 10 | 0.032917 | 0.003502 | 0.042725 |
+| 100000 | 10 | 0.2685646666666667 | 0.034273 | 0.3486626666666667 |
+| 100000 | 10 | 2.619323333333333 | 0.4498686666666667 | 3.216073333333333 |
+| 100000 | 10 | 78.3122 | 4.86689 | 112.256 |
+
+<sup> Vidurkis išvestas iš 3-jų testų </sup>
 
 Lentelės: https://docs.google.com/spreadsheets/d/1-jWgfcVoi0Piz3YIMO9YADxN77jUyhKHUNEyebXa848/edit?usp=sharing
